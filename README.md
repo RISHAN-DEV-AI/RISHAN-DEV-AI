@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hey, I'm Rishan
 
-<!--
-**RISHAN-DEV-AI/RISHAN-DEV-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 18-year-old Python programmer with a strong interest in **Data Science**, **AI/ML**, and building fun Python projects.
 
-Here are some ideas to get you started:
+## 🧠 What I Know
+- ✅ Python fundamentals
+- ✅ File handling
+- ✅ Functions and modules
+- ✅ Object-Oriented Programming (OOP)
+- ✅ Mini-games and logic building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 Projects I've Built
+- 🎮 Snake-Water-Gun Game (with logic & random module)
+- 🧮 Multiplication Tables Writer (file-based)
+- ✏️ Word Replacer with File Handling
+- 📁 Mini text tools for data cleaning
+
+## 🚀 What I'm Learning
+- Data Science basics (NumPy, Pandas)
+- AI/ML concepts and beginner models
+- How to use Python for real-world problems
+
+## 🎯 My Goals
+- Build a beginner ML project using real datasets
+- Share clean, well-documented code on GitHub
+- Learn to visualize and explain data better
+
+## 🧰 Tools & Skills
+- Python 3
+- Jupyter Notebook
+- Git & GitHub
+- OOP & logic building
+
+---
+
+📬 Let’s connect, build, and learn together!  
+⭐️ Thanks for visiting my profile!
+
